@@ -4,6 +4,7 @@ My active projects are:
 - read-cl: Command-line single-word-speedreading program (RSVP reading). I developed this to use on UserLAnd (or Termux, but getting Textract installed on Termux feels like pulling teeth.) There's a lot of reason to doubt RSVP as a great comprehension tool - reading back to check things is good for comprehension, even though it slows you down - but the focused nature of the reading tends to prevent me from getting distracted with my own thoughts, so I like it.
 - slapchop: Open-source Discord bot for rock-paper-scissors (and hidden-information challenges more generally). It's specifically developed for PvP challenges in the Mind's Eye Theater roleplaying game system - which is designed for live play, but has a thriving online play community. 
 - argonaut: Flexible wrapper around jsyn for building grooveboxes. Very early alpha has been released.
+- vincr: A quick little tool for a local Mind's Eye Theater game to calculate Vinc values with, for Vampire: The Masquerade. Like most things programmed in a single sitting in a hurry, it's a total rat's nest, but it gets the job done. It even has "graphics"!
 
 On the backburner: 
 - dungeon3d: Doom-style raytracing in AsciiPanel+Java, with a few sample modules showing how it could be used to build a classic party-based dungeon crawler in the legacy of Wizardry. The game project itself is not actively being worked on, but the visual element is pretty cool, and I thought it might be of interest to other aspiring game developers. And - who knows? Maybe someday I'll get to work on it again.
