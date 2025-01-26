@@ -8,7 +8,8 @@ My active projects are:
 
 On the backburner: 
 - dungeon3d: Doom-style raytracing in AsciiPanel+Java, with a few sample modules showing how it could be used to build a classic party-based dungeon crawler in the legacy of Wizardry. The game project itself is not actively being worked on, but the visual element is pretty cool, and I thought it might be of interest to other aspiring game developers. And - who knows? Maybe someday I'll get to work on it again.
-- snaw: A scripting-based framework for point-and-click horror games. It's not very good; it was a time-passing project during COVID. However, it does run a functional little test game, and might be fun to look through for anyone interested in point-and-click horror games. 
+- snaw: A scripting-based framework for point-and-click horror games. It's not very good; it was a time-passing project during COVID. However, it does run a functional little test game, and might be fun to look through for anyone interested in point-and-click horror games.
+- openscad-objects: Objects in OpenSCAD... Just miscellaneous household oddities and useful tidbits of whatever. 
 
 I can be reached at code@haunteddolllovers.net if you've got any questions. :)
 
